@@ -1967,20 +1967,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dione\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dione\\Documents\\VICTOR_NEPO\\_SENAI\\3TERMO\\Projeto\\back_web\\webservice\\WebServiceIFOX\\WebServiceIFOX.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\webservicevisual\\webservicegit\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj",
       "projectName": "WebServiceIFOX",
-      "projectPath": "C:\\Users\\Dione\\Documents\\VICTOR_NEPO\\_SENAI\\3TERMO\\Projeto\\back_web\\webservice\\WebServiceIFOX\\WebServiceIFOX.csproj",
-      "packagesPath": "C:\\Users\\Dione\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dione\\Documents\\VICTOR_NEPO\\_SENAI\\3TERMO\\Projeto\\back_web\\webservice\\WebServiceIFOX\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\webservicevisual\\webservicegit\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\webservicevisual\\webservicegit\\0905\\WebServiceIFOX\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2037,7 +2042,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

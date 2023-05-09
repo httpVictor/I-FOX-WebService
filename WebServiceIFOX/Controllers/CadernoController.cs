@@ -14,11 +14,10 @@ namespace WebServiceIFOX.Controllers
             caderno.cadastrarCaderno();
             return Ok(new { mensagem = caderno.cadastrarCaderno() });
         }
-        //slaaa
-        //[HttpGet]
-        //public IActionResult ListarCaderno([FromBody] string nomeUsuario)
-        //{
-        //    return Caderno.listarCaderno(nomeUsuario);
-        //}
+        
+        [HttpGet]
+        public List<Caderno> ListarCaderno(string nomeUsuario) {
+            return Caderno.listarCaderno(nomeUsuario);
+        }
     }
 }
