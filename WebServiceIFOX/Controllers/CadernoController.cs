@@ -6,6 +6,7 @@ namespace WebServiceIFOX.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    
     public class CadernoController : ControllerBase
     {
         [HttpPost]

@@ -81,6 +81,7 @@ namespace WebServiceIFOX.Models
             string sitDel = "";
             try
             {
+                Resumo.deletarResumos(id);
                 conexao.Open();
                 //criando o comando e definindo seu parâmetro
                 MySqlCommand deletarCaderno = new MySqlCommand("DELETE FROM CADERNO WHERE codigo = @cod", conexao);
