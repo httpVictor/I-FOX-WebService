@@ -20,5 +20,11 @@ namespace WebServiceIFOX.Controllers
         public List<Caderno> ListarCaderno(string nomeUsuario) {
             return Caderno.listarCaderno(nomeUsuario);
         }
+
+        [HttpDelete]
+        public IActionResult DeletarCaderno(int id_caderno)
+        {
+            return Ok(new { mensagem = Caderno.deletarCaderno(id_caderno) });
+        }
     }
 }
