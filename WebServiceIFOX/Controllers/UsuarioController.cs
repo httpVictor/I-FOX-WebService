@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Org.BouncyCastle.Crypto.Digests;
 using WebServiceIFOX.Models;
 
 namespace WebServiceIFOX.Controllers
@@ -33,6 +34,13 @@ namespace WebServiceIFOX.Controllers
             usuario = usuario.listarUsuario(nome);
             return usuario;
         }
+
+        [HttpPut]
+        public IActionResult Ataualizar(Usuario usuario) {
+            string nome = usuario.Nome;
+            return Ok(new { mensagem = usuario.atualizarUsuario(nome) });
+        }
+
     }
 
 }

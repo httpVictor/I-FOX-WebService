@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\0905\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj": {}
+    "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\WebServiceIFOX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\0905\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj": {
+    "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\WebServiceIFOX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\0905\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\WebServiceIFOX.csproj",
         "projectName": "WebServiceIFOX",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\0905\\0905\\WebServiceIFOX\\WebServiceIFOX.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\WebServiceIFOX.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\0905\\0905\\WebServiceIFOX\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
