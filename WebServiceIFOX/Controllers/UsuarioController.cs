@@ -36,7 +36,7 @@ namespace WebServiceIFOX.Controllers
         }
 
         [HttpPut]
-        public IActionResult Ataualizar(Usuario usuario) {
+        public IActionResult Ataualizar([FromBody] Usuario usuario) {
             string nome = usuario.Nome;
             return Ok(new { mensagem = usuario.atualizarUsuario(nome) });
         }

@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\aluno\Documents\KevinCaldasMendes\webservicevisualpublicado</_PublishTargetUrl>
-    <History>True|2023-05-17T18:08:48.2690520Z;True|2023-05-02T16:53:13.7301485-03:00;True|2023-05-02T16:12:00.2263576-03:00;True|2023-05-02T15:18:38.1565764-03:00;</History>
+    <History>False|2023-05-29T18:27:38.4839649Z;True|2023-05-17T15:08:48.2690520-03:00;True|2023-05-02T16:53:13.7301485-03:00;True|2023-05-02T16:12:00.2263576-03:00;True|2023-05-02T15:18:38.1565764-03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
