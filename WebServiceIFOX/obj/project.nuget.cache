@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJMMfqNZDbdgJtdFw9AwfhESvVbRxclHDcGgyFWTJz23rtVKYiv9a8gJpVxeHlbbsiUIuzdhV6nOK28pMbNfSA==",
+  "dgSpecHash": "R2MDYEOy25UNTix7mt41PvrlweL44GwESoDP/IHo6rcA0y0CURDGQM87iBMQmBhMBlH0HGYjCw0jEINoKOQcHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Documents\\KevinCaldasMendes\\taaquinepo\\WebServiceIFOX\\WebServiceIFOX.csproj",
+  "projectFilePath": "C:\\Users\\aluno\\OneDrive - SESISENAISP - Escolas\\Documentos\\Nepo\\back_end\\0206\\WebServiceIFOX\\WebServiceIFOX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\aluno\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
